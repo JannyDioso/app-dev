@@ -6,7 +6,7 @@ Family Guy is a hilarious animated sitcom known for its irreverent humor and sat
 ## Plot Summary
 The series centers around the Griffin family, consisting of Peter, Lois, Meg, Chris, Stewie, and their anthropomorphic pet dog, Brian. Each episode presents a mix of absurd and satirical storylines, often featuring cutaway gags and pop culture references. Family Guy tackles a wide range of topics, from politics and religion to social issues, always pushing boundaries with its edgy humor.
 
-## Characters
+** ## Characters **
 - **Peter Griffin**: The well-meaning but dim-witted patriarch of the family, known for his distinctive laugh and penchant for causing chaos.
 - **Lois Griffin**: Peter's patient and level-headed wife, who often finds herself dealing with the chaos caused by the rest of the family.
 - **Meg Griffin**: The socially awkward and frequently mistreated daughter of the family, often the target of ridicule both at home and at school.
